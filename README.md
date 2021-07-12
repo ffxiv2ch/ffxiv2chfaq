@@ -76,4 +76,5 @@ FFXIV General
 ### [Advanced Combat Tracker](https://advancedcombattracker.com/download.php)
 Так же является платформой для плагинов, самые популярные:
 - Демейдж метр - [гайд по установке и настройке](https://gist.github.com/TomRichter/e044a3dff5c50024cf514ffb20a201a9)
-- [Cactbot](https://github.com/quisquous/cactbot) - Оверлейд для рейда
+- [Cactbot](https://github.com/quisquous/cactbot) - оверлей для рейда
+- [TexTools](https://www.ffxiv-textools.net) - еще один фреймворк для модов
