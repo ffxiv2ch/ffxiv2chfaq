@@ -36,3 +36,26 @@ FFXIV General
 * Subscrition - Standart,  Subscription Period - какой желаете, Payment Method - Steam Account (Auto Renewal) 
 
 Если внезапно дропните игру отказаться от подписки можно в настройках стима.
+
+# Ресурсы
+## Вики и гайды
+- [оФФициальная база данных](https://na.finalfantasyxiv.com/lodestone/playguide/db/)
+- [https://ffxiv.consolegameswiki.com/wiki](https://ffxiv.consolegameswiki.com/wiki)
+- [Гайды по боевым профессиям](https://saltedxiv.com)
+- 
+
+## Прокачка профессий
+
+## Гламур
+- [Где достать гламур/прическу/маунта](https://ffxivcollect.com/)
+
+# Моддинг
+
+Из встроенных возможностей в игре можно только двигать/увеличивать интерфейс, для всего остального используется моды.
+
+### [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) 
+Лаунчер для запуска игры в обход стима, позволяет устанавливать Dalamud плагины из репозитория не выходя из игры и не снимая свитер 
+### [Advanced Combat Tracker](https://advancedcombattracker.com/download.php)
+Так же является платформой для плагинов, самые популярные:
+- Демейдж метр - [гайд по установке и настройке](https://gist.github.com/TomRichter/e044a3dff5c50024cf514ffb20a201a9)
+- [Cactbot](https://github.com/quisquous/cactbot) - Оверлейд для рейда
